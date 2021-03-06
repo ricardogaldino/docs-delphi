@@ -1,2 +1,1 @@
-# docs-delphi
-Delphi (Object Pascal)
+# Delphi (Object Pascal)
